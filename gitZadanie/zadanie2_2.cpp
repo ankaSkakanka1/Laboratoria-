@@ -3,5 +3,6 @@ using namespace std;
 
 int main() {
     cout << "Hello world!" << endl;
+    cout << "Drugi tekst" << endl;
     return 0;
 }
